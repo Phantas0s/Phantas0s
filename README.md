@@ -17,8 +17,8 @@ Here's a summary what you'll find around here:
 
 ### Games
 
-* [Snake -HJKL->](https://github.com/Phantas0s/snake.hjkl) - A snake game for you to train moving with HJKL (useful for Vim / Neovim) [Clojurescript].
-* [Sokoban](https://github.com/Phantas0s/sokoban) - A sokoban game where you can use HJKL to move around [Clojurescript]
+* [Snake -HJKL->](https://github.com/Phantas0s/snake.hjkl) - A snake game for you to train moving with HJKL (useful for Vim / Neovim) [Clojurescript]. [I want to play!](https://matthieucneude.com/snake/)
+* [Sokoban](https://github.com/Phantas0s/sokoban) - A sokoban game where you can use HJKL to move around [Clojurescript]. [I want to play!](https://matthieucneude.com/sokoban/)
 
 ### Configuration
 

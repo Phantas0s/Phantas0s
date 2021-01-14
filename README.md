@@ -1,16 +1,31 @@
-### Hi there 👋
+## Hi there 👋 and welcome to my little world!
 
-<!--
-**Phantas0s/Phantas0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's a summary what you'll find around here:
 
-Here are some ideas to get you started:
+### Side projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Devdash](https://github.com/Phantas0s/devdash) - Highly configurable terminal dashboard for developers [Golang].
+* [testomatic](https://github.com/Phantas0s/testomatic) - Run tests each time you save a file [Golang].
+* [Building Your Mouseless Development Environment](https://github.com/Phantas0s/mouseless-dev) - The landing page for my book [Golang].
+* [Sharetoall](https://github.com/Phantas0s/sharetoall) - An attempt to make an open source buffer clone. [ARCHIVED] [PHP].
+
+### Self studies
+
+* [The Alexandria Library](https://github.com/Phantas0s/alexandria-library)
+* [The Playground](https://github.com/Phantas0s/playground)
+
+### Games
+
+* [Snake -HJKL->](https://github.com/Phantas0s/snake.hjkl) - A snake game for you to train moving with HJKL (useful for Vim / Neovim) [Clojurescript].
+* [Sokoban](https://github.com/Phantas0s/sokoban) - A sokoban game where you can use HJKL to move around [Clojurescript]
+
+### Configuration
+
+* [Dotfiles](https://github.com/Phantas0s/.dotfiles)
+* [ArchInstall](https://github.com/Phantas0s/ArchInstall) - Scripts to install my whole development environment.
+* [Purification](https://github.com/Phantas0s/purification) - Minimal prompt for Zsh (without dependency).
+
+### Others
+
+* [Questions I ask to companies during an interview](https://github.com/Phantas0s/questions-job-interview)
+

@@ -6,6 +6,7 @@ Here's a summary what you'll find around here:
 
 * [Devdash](https://github.com/Phantas0s/devdash) - Highly configurable terminal dashboard for developers [Golang].
 * [testomatic](https://github.com/Phantas0s/testomatic) - Run tests each time you save a file [Golang].
+* [Ottosocial](https://github.com/Phantas0s/ottosocial) - Schedule tweets via CSV [Golang].
 * [Building Your Mouseless Development Environment](https://github.com/Phantas0s/mouseless-dev) - The landing page for my book [Golang].
 * [Sharetoall](https://github.com/Phantas0s/sharetoall) - An attempt to make an open source clone of buffer. [ARCHIVED] [PHP].
 

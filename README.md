@@ -1,4 +1,4 @@
-# 🌏 Welcome to my little world! 🌏
+# 🌏 Welcome to my little world! 🌍
 
 Thank you for checking my Github page! Here's everything I'm working on.
 

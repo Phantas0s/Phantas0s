@@ -30,7 +30,7 @@ I don't like to call myself a teacher; I don't know better (or more) than you do
 
 ## Configuration
 
-* 🎆 [Dotfiles](https://github.com/Phantas0s/.dotfiles) - My [Mouseless Development Environment](https://themouseless.dev/) with i3, Zsh, tmux, Neovim, and friends.
+* 🎆 [Dotfiles](https://github.com/Phantas0s/.dotfiles) - All the configuration files for the different applications I'm using.
 * 💻 [ArchInstall](https://github.com/Phantas0s/ArchInstall) - Scripts to install my whole [Mouseless Development Environment](https://themouseless.dev/).
 * 🔷 [Purification](https://github.com/Phantas0s/purification) - Minimal prompt for Zsh (without dependency).
 

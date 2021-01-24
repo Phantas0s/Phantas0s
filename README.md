@@ -10,7 +10,7 @@ Thank you for checking my Github page! Here's everything I'm working on.
 * 🔨 [Building Your Mouseless Development Environment](https://github.com/Phantas0s/mouseless-dev) - The landing page for my book [Golang].
 * 🤝 [Sharetoall](https://github.com/Phantas0s/sharetoall) - An attempt to make an open source clone of buffer. [ARCHIVED] [PHP - Vue.js].
 
-## Teaching and Learning
+## Mentoring
 
 I don't like to call myself a teacher; I don't know better (or more) than you do. I simply try, with these projects, to pass on everything I learn.
 

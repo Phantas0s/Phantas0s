@@ -40,7 +40,7 @@ I don't like to call myself a teacher; I don't know better (or more) than you do
 
 ## Contact
 
-I'm always happy to make new friends! You an always come and say hello.
+I'm always happy to make new friends!
 
 * 🦚 I'm trying to provide as much value as I can via [Twitter](https://twitter.com/Cneude_Matthieu). Let's connect there!
 * 📨 I love emails! You can write to me at matthieu dot cneude at gmail. It might get some time for me to answer, but I'll did. Promise!

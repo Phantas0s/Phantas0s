@@ -1,6 +1,6 @@
 # 🌏 Welcome to my little world! 🌏
 
-Here's everything I've worked on or I'm working on.
+Here's everything I'm working on.
 
 ## Side projects
 
@@ -40,4 +40,7 @@ I don't like to call myself a teacher; I don't know better (or more) than you do
 
 ## Contact
 
-I'm trying to provide as much value via [Twitter](). I
+I'm always happy to make new friends! You an always come and say hello.
+
+* 🦚 I'm trying to provide as much value as I can via [Twitter](https://twitter.com/Cneude_Matthieu). Let's connect there!
+* 📨 I love emails! You can write to me at matthieu dot cneude at gmail. It might get some time for me to answer, but I'll did. Promise!

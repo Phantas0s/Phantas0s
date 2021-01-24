@@ -1,6 +1,6 @@
-## Welcome to my little world! 🌏
+# Welcome to my little world! 🌏
 
-Here's a summary what you'll find around here:
+Here's what you'll find 
 
 ### Side projects
 

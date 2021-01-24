@@ -1,6 +1,6 @@
 # 🌏 Welcome to my little world! 🌏
 
-Here's everything I'm working on.
+Thank you for checking my Github page! Here's everything I'm working on.
 
 ## Side projects
 

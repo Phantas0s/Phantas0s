@@ -1,4 +1,4 @@
-## Hi there 👋 and welcome to my little world!
+## Welcome to my little world! 🌏
 
 Here's a summary what you'll find around here:
 

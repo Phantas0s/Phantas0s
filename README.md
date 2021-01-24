@@ -4,7 +4,7 @@ Thank you for checking my Github page! Here's everything I'm working on.
 
 ## Side projects
 
-* :bento: [Devdash](https://github.com/Phantas0s/devdash) - Highly configurable terminal dashboard for developers [Golang].
+* :bento: [DevDash](https://github.com/Phantas0s/devdash) - Highly configurable terminal dashboard for developers [Golang].
 * ⚙ [testomatic](https://github.com/Phantas0s/testomatic) - Run tests each time you save a file [Golang].
 * 🕊 [ottosocial](https://github.com/Phantas0s/ottosocial) - Schedule tweets via CSV [Golang].
 * 🔨 [Building Your Mouseless Development Environment](https://github.com/Phantas0s/mouseless-dev) - The landing page for my book [Golang].

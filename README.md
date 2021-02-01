@@ -36,7 +36,7 @@ I don't like to call myself a teacher; I don't know better (or more) than you do
 
 ## Others
 
-* ❓ [Questions I ask to companies during an interview](https://github.com/Phantas0s/questions-job-interview) - Decades of experience being interviewed as well as some years hiring for companies.
+* ❓ [Questions I ask to companies during an interview](https://github.com/Phantas0s/questions-job-interview) - Decades of experience being interviewed as well as some experience hiring for companies.
 
 ## Contact
 

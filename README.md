@@ -2,7 +2,7 @@
 
 Thank you for checking my Github page! Here's everything I'm working on.
 
-## Side projects
+## Tools
 
 * :bento: [DevDash](https://github.com/Phantas0s/devdash) - Highly configurable terminal dashboard for developers [Golang].
 * ⚙ [testomatic](https://github.com/Phantas0s/testomatic) - Run tests each time you save a file [Golang].

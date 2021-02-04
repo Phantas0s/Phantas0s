@@ -7,8 +7,7 @@ Thank you for checking my Github page! Here's everything I'm working on.
 * :bento: [DevDash](https://github.com/Phantas0s/devdash) - Highly configurable terminal dashboard for developers [Golang].
 * ⚙ [testomatic](https://github.com/Phantas0s/testomatic) - Run tests each time you save a file [Golang].
 * 🕊 [ottosocial](https://github.com/Phantas0s/ottosocial) - Schedule tweets via CSV [Golang].
-* 🔨 [Building Your Mouseless Development Environment](https://github.com/Phantas0s/mouseless-dev) - The landing page for my book [Golang].
-* 🤝 [Sharetoall](https://github.com/Phantas0s/sharetoall) - An attempt to make an open source clone of buffer. [ARCHIVED] [PHP - Vue.js].
+* 🤝 [Sharetoall](https://github.com/Phantas0s/sharetoall) - An attempt to make an open source clone of buffer. [ARCHIVED] [PHP/Vue.js].
 
 ## Mentoring
 
@@ -34,9 +33,11 @@ I don't like to call myself a teacher; I don't know better (or more) than you do
 * 💻 [ArchInstall](https://github.com/Phantas0s/ArchInstall) - Scripts to install my whole [Mouseless Development Environment](https://themouseless.dev/).
 * 🔷 [Purification](https://github.com/Phantas0s/purification) - Minimal prompt for Zsh (without dependency).
 
-## Others
+## Misc
 
 * ❓ [Questions I ask to companies during an interview](https://github.com/Phantas0s/questions-job-interview) - Decades of experience being interviewed as well as some experience hiring for companies.
+* 🔨 [Building Your Mouseless Development Environment](https://github.com/Phantas0s/mouseless-dev) - The landing page for my book [Golang/Hugo].
+* 🌱 [Garden of Thoughts](https://github.com/Phantas0s/garden) - My (very young) [digital garden](https://matthieucneude.com/garden/) [Golang/Hugo].
 
 ## Contact
 

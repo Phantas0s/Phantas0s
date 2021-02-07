@@ -44,6 +44,6 @@ I don't like to call myself a teacher; I don't know better (or more) than you do
 I'm always happy to make new friends!
 
 * 🦚 I'm trying to provide as much value as I can via [Twitter](https://twitter.com/Cneude_Matthieu). Let's connect there!
-* 📨 I love emails! You can write to me at matthieu dot cneude at yahoo dot fr. I know, I'm probably the only one still using yahoo nowadays. 
+* 📨 I love emails! You can write to me at matthieu dot cneude at yahoo dot fr.
 
 It might get some time for me to answer, but I'll do. Promise!

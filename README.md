@@ -39,11 +39,11 @@ I don't like to call myself a teacher; I don't know better (or more) than you do
 * 🔨 [Building Your Mouseless Development Environment](https://github.com/Phantas0s/mouseless-dev) - The landing page for my book [Golang/Hugo].
 * 🌱 [Garden of Thoughts](https://github.com/Phantas0s/garden) - My (very young) [digital garden](https://matthieucneude.com/garden/) [Golang/Hugo].
 
-## Contact
+## Let's Connect!
 
 I'm always happy to make new friends!
 
-* 🦚 I'm trying to provide as much value as I can via [Twitter](https://twitter.com/Cneude_Matthieu). Let's connect there!
-* 📨 I love emails! You can write to me at matthieu dot cneude at yahoo dot fr.
+* 📨 You can subscribe to the [newsletter of my blog](https://thevaluable.dev/page/newsletter/) and answer any email you want. I love email, and I'm always happy to answer.
+* 🦚 I'm trying to provide as much value as I can via [Twitter](https://twitter.com/Cneude_Matthieu), one tweet at a time.
 
 It might get some time for me to answer, but I'll do. Promise!

@@ -46,4 +46,4 @@ I'm always happy to make new friends!
 * 📨 You can subscribe to the [newsletter of my blog](https://thevaluable.dev/page/newsletter/) and answer any email you want. I love email, and I'm always happy to answer.
 * 🦚 I'm trying to provide as much value as I can via [Twitter](https://twitter.com/Cneude_Matthieu), one tweet at a time.
 
-It might get some time for me to answer, but I'll do. Promise!
+It might get some time for me to answer, but I promise I'll do.

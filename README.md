@@ -2,11 +2,14 @@
 
 Thank you for checking my Github page! Here's everything I'm working on.
 
-## Tools
+## CLI / TUI
 
 * :bento: [DevDash](https://github.com/Phantas0s/devdash) - Highly configurable terminal dashboard for developers [Golang].
 * ⚙ [testomatic](https://github.com/Phantas0s/testomatic) - Run tests each time you save a file [Golang].
 * 🕊 [ottosocial](https://github.com/Phantas0s/ottosocial) - Schedule tweets via CSV [Golang].
+
+## Web App
+
 * 🤝 [Sharetoall](https://github.com/Phantas0s/sharetoall) - An attempt to make an open source clone of buffer. [ARCHIVED] [PHP/Vue.js].
 
 ## Mentoring

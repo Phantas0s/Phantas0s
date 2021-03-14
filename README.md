@@ -9,6 +9,10 @@ Thank you for checking my Github page! Here's everything I'm working on.
 * ⚙ [testomatic](https://github.com/Phantas0s/testomatic) - Run tests each time you save a file [Golang].
 * 🕊 [ottosocial](https://github.com/Phantas0s/ottosocial) - Schedule tweets via CSV [Golang].
 
+## Book
+
+* 📙 [Building Your Mouseless Development Environment](https://themouseless.dev) - How to build a complete Mouseless Development Environment from start to finish.
+
 ## Web App
 
 * 🤝 [Sharetoall](https://github.com/Phantas0s/sharetoall) - An attempt to make an open source clone of Buffer. [ARCHIVED] [PHP/Vue.js].
@@ -18,7 +22,6 @@ Thank you for checking my Github page! Here's everything I'm working on.
 I don't like to call myself a teacher; I don't know better (or more) than you do. I simply try, with these projects, to pass on everything I learn.
 
 * 💎 [The Valuable Dev](https://thevaluable.dev/) - Increase your value as a developer.
-* 📙 [Building Your Mouseless Development Environment](https://themouseless.dev) - How to build a complete Mouseless Development Environment from start to finish.
 * 📽 [The Mouseless Dev](https://www.youtube.com/channel/UCoJtk2M8bme9KXTe6F3K-Yg) - Videos on mouseless tools and processes.
 
 ## Self studies

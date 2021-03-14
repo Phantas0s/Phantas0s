@@ -48,7 +48,7 @@ I don't like to call myself a teacher; I don't know better (or more) than you do
 
 ## Let's Connect!
 
-I'm always happy to make new friends!
+I'm always happy to help as much as I can.
 
 * 📨 You can subscribe to the [newsletter of my blog](https://thevaluable.dev/page/newsletter/) and answer any email you want. I love email, and I'm always happy to answer.
 * 🦚 I'm trying to provide as much value as I can via [Twitter](https://twitter.com/Cneude_Matthieu), one tweet at a time.

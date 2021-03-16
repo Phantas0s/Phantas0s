@@ -4,8 +4,8 @@ Thank you for checking my Github page! Here's everything I'm working on.
 
 ## CLI / TUI
 
-* 💼 [gocket](https://github.com/Phantas0s/gocket) - CLI / TUI for Pocket [Golang].
 * :bento: [DevDash](https://github.com/Phantas0s/devdash) - Highly configurable terminal dashboard for developers [Golang].
+* 💼 [gocket](https://github.com/Phantas0s/gocket) - CLI / TUI for Pocket [Golang].
 * ⚙ [testomatic](https://github.com/Phantas0s/testomatic) - Run tests each time you save a file [Golang].
 * 🕊 [ottosocial](https://github.com/Phantas0s/ottosocial) - Schedule tweets via CSV [Golang].
 

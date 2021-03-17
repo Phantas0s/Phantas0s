@@ -1,6 +1,6 @@
 # 🌏 Welcome to my little world 🌍
 
-Thank you for checking my Github page! Here's everything I'm working on.
+Thank you for checking my GitHub page! Here's everything I'm working on.
 
 ## CLI / TUI
 

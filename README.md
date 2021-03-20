@@ -24,7 +24,7 @@ I don't like to call myself a teacher; I don't know better (or more) than you do
 * 💎 [The Valuable Dev](https://thevaluable.dev/) - Increase your value as a developer.
 * 📽 [The Mouseless Dev](https://www.youtube.com/channel/UCoJtk2M8bme9KXTe6F3K-Yg) - Videos on mouseless tools and processes.
 
-## Self studies
+## Self study
 
 * 🎊 [The Playground](https://github.com/Phantas0s/playground) - Experiments and exercises.
 

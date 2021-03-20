@@ -26,7 +26,7 @@ I don't like to call myself a teacher; I don't know better (or more) than you do
 
 ## Self studies
 
-* 🎊 [The Playground](https://github.com/Phantas0s/playground) - The courtyard of the Alexandria Library: experiments and exercises.
+* 🎊 [The Playground](https://github.com/Phantas0s/playground) - Experiments and exercises.
 
 ## Games
 

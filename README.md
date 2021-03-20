@@ -26,7 +26,6 @@ I don't like to call myself a teacher; I don't know better (or more) than you do
 
 ## Self studies
 
-* 📚 [The Alexandria Library](https://github.com/Phantas0s/alexandria-library) - My methods to acquire new knowledge and make it my own.
 * 🎊 [The Playground](https://github.com/Phantas0s/playground) - The courtyard of the Alexandria Library: experiments and exercises.
 
 ## Games

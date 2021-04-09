@@ -12,6 +12,7 @@ Thank you for checking my GitHub page! Here's everything I'm working on.
 ## Book
 
 * 📙 [Building Your Mouseless Development Environment](https://themouseless.dev) - How to build a complete Mouseless Development Environment from start to finish.
+* [Soft Skills For Developers](https://thesoftskills.dev) - The book I'm currently writing to improve your soft skills as a developer.
 
 ## Web App
 

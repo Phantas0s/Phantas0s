@@ -16,7 +16,7 @@ Thank you for checking my GitHub page! Here's everything I'm working on.
 
 ## Web App
 
-* 🤝 [Sharetoall](https://github.com/Phantas0s/sharetoall) - An attempt to make an open source clone of Buffer. [ARCHIVED] [PHP/Vue.js].
+* 🤝 [Sharetoall](https://github.com/Phantas0s/sharetoall) - An attempt to make a clone of Buffer. [ARCHIVED] [PHP/Vue.js].
 
 ## Mentoring
 

@@ -9,14 +9,14 @@ Thank you for checking my GitHub page! Here's everything I'm working on.
 * ⚙ [testomatic](https://github.com/Phantas0s/testomatic) - Run tests each time you save a file [Golang].
 * 🕊 [ottosocial](https://github.com/Phantas0s/ottosocial) - Schedule tweets via CSV [Golang].
 
-## Book
-
-* 📙 [Building Your Mouseless Development Environment](https://themouseless.dev) - How to build a complete Mouseless Development Environment from start to finish.
-* 📗 [Soft Skills For Developers](https://thesoftskills.dev) - The book I'm currently writing for developers to improve their soft skills.
-
 ## Web App
 
 * 🤝 [Sharetoall](https://github.com/Phantas0s/sharetoall) - An attempt to make a clone of Buffer. [ARCHIVED] [PHP/Vue.js].
+
+## Books
+
+* 📙 [Building Your Mouseless Development Environment](https://themouseless.dev) - How to build a complete Mouseless Development Environment from start to finish.
+* 📗 [Soft Skills For Developers](https://thesoftskills.dev) - The book I'm currently writing for developers to improve their soft skills.
 
 ## Mentoring
 

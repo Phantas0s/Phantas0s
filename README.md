@@ -29,7 +29,7 @@ I don't like to call myself a teacher; I don't know better (or more) than you do
 ## Self study
 
 * 🎊 [The Playground](https://github.com/Phantas0s/playground) - Experiments and exercises.
-* 🎋[The Alexandria Library Excerpt](https://github.com/Phantas0s/alexandria-library) - The 200+ mindmaps I've created for capturing the knowledge I want to review from time to time.
+* 🎋[The Alexandria Library](https://github.com/Phantas0s/alexandria-library) - The 200+ mindmaps I've created for capturing the knowledge I want to review from time to time.
 
 ## Games
 
